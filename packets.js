@@ -39,3 +39,5 @@
             document.querySelector('body').removeChild(childElement);
         }, t+200);
     }
+
+// <script src="https://cdn.jsdelivr.net/gh/sonex-ICB/js_functions@refs/heads/main/packets.js"></script>
